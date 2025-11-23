@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "OrgHeatmap"]
 	path = OrgHeatmap
-	url = https://github.com/cran/OrgHeatmap
+	url = https://github.com/qiruishen439/orgheatmap
